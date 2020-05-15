@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "699791261322",
+    "firebase_url": "https://pothole-app-v.firebaseio.com",
+    "project_id": "pothole-app-v",
+    "storage_bucket": "pothole-app-v.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699791261322:android:ebf870784013a4bb62f773",
+        "android_client_info": {
+          "package_name": "com.example.pot_rep_app_viivek_version"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699791261322-tarm06ambs6vlrgs32f28thut36matll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATw2VxixUUCBWuakFjW4Jz9sXPKkt5He8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699791261322-tarm06ambs6vlrgs32f28thut36matll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
